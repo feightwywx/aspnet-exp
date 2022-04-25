@@ -50,6 +50,7 @@ namespace 课堂练习4
             Table1.Rows[0].Cells[1].Text = TextBox1.Text;
             Table1.Rows[1].Cells[1].Text = RadioButtonList1.SelectedItem.Text;
             Table1.Rows[2].Cells[1].Text = $"{DropDownList1.SelectedValue}年{DropDownList2.SelectedValue}月";
+            Table1.Rows[3].Cells[1].Text = "";
             for (int i = 0; i < CheckBoxList1.Items.Count; i++)
             {
                 if (CheckBoxList1.Items[i].Selected) Table1.Rows[3].Cells[1].Text += CheckBoxList1.Items[i].Value;

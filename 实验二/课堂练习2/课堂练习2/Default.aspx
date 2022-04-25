@@ -22,6 +22,7 @@
                 <asp:ListItem>乔峰</asp:ListItem>
                 <asp:ListItem>慕容复</asp:ListItem>
                 <asp:ListItem>杨过</asp:ListItem>
+                <asp:ListItem>潘天鸿</asp:ListItem>
                 <asp:ListItem>黄蓉</asp:ListItem>
                 <asp:ListItem>赵敏</asp:ListItem>
             </asp:CheckBoxList>

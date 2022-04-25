@@ -28,7 +28,7 @@ namespace 课堂练习2
            }
            if (Label1.Text == "您投票给了")
             {
-                Label1.Text = "您还没有投票！";
+                Label1.Text = "亲亲，没有投票是看不到结果的呢";
             }
         }
     }
